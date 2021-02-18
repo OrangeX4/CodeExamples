@@ -13,6 +13,12 @@
 4. 稍息片刻, 你就会看见输出结果, 恭喜!
 
 
+# Python Spider 爬虫
+
+Run `spider.py` and you will get 5 stars books' information from DangDang website.
+
+运行 `spider.py` 你将会在当当网中爬取 5 星书籍的信息.
+
 # buildAPKs
 
 Run the script `buildAPKs.bash`, it will build some apk files for you.
